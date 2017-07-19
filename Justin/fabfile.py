@@ -21,7 +21,7 @@ from datetime import datetime
 from fabric.operations import local as lrun
 
 
-__date__ = "04/12/2017"
+__date__ = "07/19/2017"
 __author__ = "Justin Jessup"
 __copyright__ = "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License"
 __credits__ = ["Justin Jessup"]
