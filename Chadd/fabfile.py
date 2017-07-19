@@ -22,13 +22,13 @@ from fabric.operations import local as lrun
 
 
 __date__ = "07/19/2017"
-__author__ = "Justin Jessup"
+__author__ = "Chadd Milton"
 __copyright__ = "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License"
-__credits__ = ["Justin Jessup"]
+__credits__ = ["Chadd Milton"]
 __license__ = "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License"
 __version__ = "0.1.1"
-__maintainer__ = "Justin Jessup"
-__email__ = "Justin@alienonesecurity.com"
+__maintainer__ = "Chadd Milton"
+__email__ = "chadd.milton@theta-point.com"
 __status__ = "Production"
 
 

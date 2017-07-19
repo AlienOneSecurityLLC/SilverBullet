@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*-
-from __future__ import with_statement
+
+m __future__ import with_statement
 import os
 import sys
 import csv
@@ -22,13 +22,13 @@ from fabric.operations import local as lrun
 
 
 __date__ = "07/19/2017"
-__author__ = "Justin Jessup"
+__author__ = "Duy Tran"
 __copyright__ = "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License"
-__credits__ = ["Justin Jessup"]
+__credits__ = ["Duy Tran"]
 __license__ = "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License"
 __version__ = "0.1.1"
-__maintainer__ = "Justin Jessup"
-__email__ = "Justin@alienonesecurity.com"
+__maintainer__ = "Duy Tran"
+__email__ = "duy.tran@theta-point.com"
 __status__ = "Production"
 
 
